@@ -4,7 +4,7 @@ import com.windowsazure.messaging.NotificationHub;
 
 public class Main {
     public static void main(String[] args) {
-        String connectionString = "Endpoint=sb://myatt-test-ns-hub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=TymBtrz9uWUxruYLtG62t7dusC3VNyScJSSHeYrLS5s=";
+        String connectionString = "Endpoint=sb://myatt-test-ns-hub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
         String hubName = "myatt-test-hub";
         String deviceToken = "fiXYGQjxQtmnGLiu3nl14N:APA91bGI216513BEUgqxh7Ux-tg9TgkzAfCqH1m8P7J7k4NCSzCgPdHpI-r6AFgBwMRXL0DNhW8hcbBaqpDnP_A-bS-5y9ILPnY6WL80W6J_S6U4pJbdAT34p9h0Ul4RtX0lO9Fvk-lu";
 
